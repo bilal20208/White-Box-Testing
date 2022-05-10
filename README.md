@@ -16,4 +16,5 @@ this system have 3 application to simulate White Box Testing using php laravel
     
 ## and you can change the branch to run regression testing
     
+     git checkout "triangle_zero_and_nigative_number"
      php artisan test --filter TriangleTypeTest
