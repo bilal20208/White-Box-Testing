@@ -16,4 +16,4 @@ this system have 3 application to simulate White Box Testing using php laravel
     
 ## and you can change the branch to run regression testing
     
-     php artisan test --filter BlankCharactersTest
+     php artisan test --filter TriangleTypeTest
